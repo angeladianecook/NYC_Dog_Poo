@@ -1,0 +1,242 @@
+:root {
+  --bg: #0f1115;
+  --panel: #171a21;
+  --panel-2: #1f232c;
+  --text: #e8eaed;
+  --muted: #9aa0aa;
+  --accent: #f6c343;
+  --border: #2a2f3a;
+  --radius: 10px;
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  font-family: var(--font);
+  color: var(--text);
+  background: var(--bg);
+}
+
+.app {
+  display: grid;
+  grid-template-columns: 340px 1fr;
+  height: 100vh;
+}
+
+/* ---- Sidebar ---------------------------------------------------------- */
+.sidebar {
+  background: var(--panel);
+  border-right: 1px solid var(--border);
+  padding: 20px 18px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
+.brand h1 {
+  font-size: 1.18rem;
+  margin: 0 0 6px;
+  line-height: 1.25;
+}
+
+.tagline {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* ---- Controls --------------------------------------------------------- */
+.controls {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-size: 0.78rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.field select {
+  background: var(--panel-2);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 9px 10px;
+  font-size: 0.92rem;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.modes {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  display: flex;
+  gap: 18px;
+  font-size: 0.9rem;
+  color: var(--text);
+}
+.modes legend {
+  padding: 0 6px;
+  font-size: 0.74rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.modes label {
+  cursor: pointer;
+}
+
+/* ---- Stats ------------------------------------------------------------ */
+.stat-total-wrap {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+.stat-total {
+  font-size: 2.1rem;
+  font-weight: 700;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+.stat-total-label {
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.stats h2 {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  margin: 0 0 10px;
+}
+
+.bars {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.bar-row {
+  display: grid;
+  grid-template-columns: 80px 1fr auto;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.8rem;
+}
+.bar-label {
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.bar-track {
+  background: var(--panel-2);
+  border-radius: 6px;
+  height: 10px;
+  overflow: hidden;
+}
+.bar-fill {
+  display: block;
+  height: 100%;
+  border-radius: 6px;
+  transition: width 0.35s ease;
+}
+.bar-val {
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+}
+
+/* ---- Status / footer -------------------------------------------------- */
+.status {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin: 0;
+  padding: 8px 10px;
+  border-radius: 8px;
+  background: var(--panel-2);
+  border-left: 3px solid var(--border);
+}
+.status--loading {
+  border-left-color: #4363d8;
+}
+.status--ok {
+  border-left-color: #3cb44b;
+}
+.status--warn {
+  border-left-color: var(--accent);
+}
+.status--error {
+  border-left-color: #e6194b;
+}
+
+.foot {
+  margin-top: auto;
+  font-size: 0.72rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+.foot p {
+  margin: 0;
+}
+
+/* ---- Map -------------------------------------------------------------- */
+#map {
+  height: 100%;
+  width: 100%;
+  background: #0b0d10;
+}
+
+.dot-marker span {
+  display: block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 1.5px solid rgba(255, 255, 255, 0.85);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25);
+}
+
+.leaflet-popup-content {
+  font-family: var(--font);
+  font-size: 0.85rem;
+}
+.leaflet-popup-content .muted {
+  color: #666;
+  font-size: 0.78rem;
+}
+
+/* ---- Responsive ------------------------------------------------------- */
+@media (max-width: 760px) {
+  .app {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+    height: 100vh;
+  }
+  .sidebar {
+    max-height: 44vh;
+  }
+}

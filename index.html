@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>NYC Dog Waste Complaints — 311 Open Data Map</title>
+    <meta
+      name="description"
+      content="An interactive map of dog-waste complaints reported to NYC 311, built from NYC Open Data."
+    />
+
+    <!-- Leaflet core -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <!-- MarkerCluster plugin -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar">
+        <header class="brand">
+          <h1>🐾 NYC Dog Waste Complaints</h1>
+          <p class="tagline">
+            Where New Yorkers report dog waste to 311 — mapped from
+            <a
+              href="https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9"
+              target="_blank"
+              rel="noopener"
+              >NYC Open Data</a
+            >.
+          </p>
+        </header>
+
+        <section class="controls">
+          <label class="field">
+            <span>Borough</span>
+            <select id="filter-borough">
+              <option value="ALL">All boroughs</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Year</span>
+            <select id="filter-year">
+              <option value="ALL">All years</option>
+            </select>
+          </label>
+
+          <fieldset class="modes">
+            <legend>View</legend>
+            <label
+              ><input type="radio" name="mode" value="clusters" checked /> Clusters</label
+            >
+            <label><input type="radio" name="mode" value="heat" /> Heatmap</label>
+          </fieldset>
+        </section>
+
+        <section class="stats">
+          <div class="stat-total-wrap">
+            <span class="stat-total" id="stat-total">—</span>
+            <span class="stat-total-label">complaints shown</span>
+          </div>
+          <h2>By borough</h2>
+          <div id="borough-bars" class="bars"></div>
+        </section>
+
+        <p id="status" class="status">Initializing…</p>
+
+        <footer class="foot">
+          <p>
+            Civic open-data project · data: NYC 311 · basemap: CARTO/OSM ·
+            <a href="https://github.com/angeladianecook/nyc_dog_poo" target="_blank" rel="noopener">source</a>
+          </p>
+        </footer>
+      </aside>
+
+      <main id="map" aria-label="Map of NYC dog waste complaints"></main>
+    </div>
+
+    <!-- Scripts -->
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+    <script src="assets/js/config.js"></script>
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

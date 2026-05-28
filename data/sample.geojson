@@ -1,0 +1,7210 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "note": "Synthetic fallback sample. Not real 311 data.",
+  "generated": "2026-05-28T19:33:11.066329Z",
+  "count": 400
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.866445,
+     40.58951
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100317",
+    "created_date": "2025-04-25T08:54:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9581,
+     40.700313
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100288",
+    "created_date": "2025-04-23T14:31:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.820649,
+     40.804899
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100258",
+    "created_date": "2025-04-22T04:29:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.974179,
+     40.812823
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100233",
+    "created_date": "2025-04-19T17:31:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.843185,
+     40.695806
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100048",
+    "created_date": "2025-04-19T05:30:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.941568,
+     40.595757
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100213",
+    "created_date": "2025-04-18T07:50:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.203347,
+     40.522987
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100002",
+    "created_date": "2025-04-17T22:53:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919765,
+     40.797739
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100074",
+    "created_date": "2025-04-16T16:06:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921346,
+     40.57516
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100251",
+    "created_date": "2025-04-15T19:45:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.017457,
+     40.787912
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100043",
+    "created_date": "2025-04-14T15:28:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.954567,
+     40.840702
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100290",
+    "created_date": "2025-04-13T14:58:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.000903,
+     40.704115
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100247",
+    "created_date": "2025-04-11T14:12:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.916488,
+     40.748694
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100135",
+    "created_date": "2025-04-11T13:26:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.875873,
+     40.842344
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100291",
+    "created_date": "2025-04-08T16:57:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.91849,
+     40.75477
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100008",
+    "created_date": "2025-04-08T00:56:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.17182,
+     40.593912
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100032",
+    "created_date": "2025-04-07T12:44:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "STATEN ISLAND",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942805,
+     40.740165
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100089",
+    "created_date": "2025-04-07T06:38:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.922644,
+     40.780222
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100159",
+    "created_date": "2025-04-07T06:26:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.212235,
+     40.502164
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100134",
+    "created_date": "2025-04-06T18:53:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.88582,
+     40.746716
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100140",
+    "created_date": "2025-04-03T19:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945551,
+     40.760601
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100295",
+    "created_date": "2025-04-01T08:17:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.932388,
+     40.659222
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100236",
+    "created_date": "2025-03-27T16:44:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.956759,
+     40.725984
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100345",
+    "created_date": "2025-03-27T03:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.970344,
+     40.748644
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100142",
+    "created_date": "2025-03-27T03:04:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.846715,
+     40.893612
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100359",
+    "created_date": "2025-03-25T18:03:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.856259,
+     40.572544
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100028",
+    "created_date": "2025-03-25T00:24:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.063593,
+     40.508459
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100266",
+    "created_date": "2025-03-24T14:25:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "STATEN ISLAND",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.706507,
+     40.668027
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100116",
+    "created_date": "2025-03-24T14:12:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.740624,
+     40.573818
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100341",
+    "created_date": "2025-03-24T00:53:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.915564,
+     40.64731
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100286",
+    "created_date": "2025-03-21T10:04:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.985765,
+     40.80669
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100249",
+    "created_date": "2025-03-20T23:34:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.927579,
+     40.869441
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100020",
+    "created_date": "2025-03-18T10:04:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.993512,
+     40.617858
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100123",
+    "created_date": "2025-03-17T01:55:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.775394,
+     40.809147
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100374",
+    "created_date": "2025-03-17T01:24:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.747836,
+     40.684067
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100156",
+    "created_date": "2025-03-15T12:01:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.950481,
+     40.639445
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100206",
+    "created_date": "2025-03-15T11:22:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.964446,
+     40.865561
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100242",
+    "created_date": "2025-03-15T07:00:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.099819,
+     40.520732
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100158",
+    "created_date": "2025-03-13T22:56:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.895088,
+     40.8348
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100292",
+    "created_date": "2025-03-13T08:56:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942608,
+     40.620389
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100254",
+    "created_date": "2025-03-09T04:30:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.925936,
+     40.739025
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100270",
+    "created_date": "2025-03-07T18:33:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9381,
+     40.823697
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100069",
+    "created_date": "2025-03-07T04:38:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.908156,
+     40.666524
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100211",
+    "created_date": "2025-03-06T02:09:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.958084,
+     40.748854
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100117",
+    "created_date": "2025-03-06T00:23:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917954,
+     40.833564
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100103",
+    "created_date": "2025-03-05T16:05:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.003588,
+     40.797117
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100072",
+    "created_date": "2025-03-02T03:42:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.012937,
+     40.675604
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100346",
+    "created_date": "2025-03-02T00:40:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.006934,
+     40.863249
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100309",
+    "created_date": "2025-03-01T18:02:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.780182,
+     40.808377
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100394",
+    "created_date": "2025-02-28T21:32:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.216574,
+     40.506417
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100198",
+    "created_date": "2025-02-27T00:27:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.858285,
+     40.633494
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100070",
+    "created_date": "2025-02-24T07:05:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.88436,
+     40.859898
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100339",
+    "created_date": "2025-02-23T10:13:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929117,
+     40.721448
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100052",
+    "created_date": "2025-02-21T23:20:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.897114,
+     40.680833
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100358",
+    "created_date": "2025-02-20T22:42:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.927783,
+     40.789611
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100030",
+    "created_date": "2025-02-19T22:32:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.722955,
+     40.741269
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100336",
+    "created_date": "2025-02-16T21:01:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.869261,
+     40.624974
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100120",
+    "created_date": "2025-02-16T19:34:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.915742,
+     40.779001
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100361",
+    "created_date": "2025-02-16T01:38:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.969146,
+     40.57956
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100263",
+    "created_date": "2025-02-14T19:00:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.039939,
+     40.703085
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100017",
+    "created_date": "2025-02-14T12:17:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.941345,
+     40.635401
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100088",
+    "created_date": "2025-02-13T02:45:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.936561,
+     40.583864
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100019",
+    "created_date": "2025-02-11T00:55:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.812171,
+     40.901736
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100311",
+    "created_date": "2025-02-10T11:15:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.96593,
+     40.731832
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100322",
+    "created_date": "2025-02-08T11:00:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.739259,
+     40.753214
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100347",
+    "created_date": "2025-02-08T10:55:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.996706,
+     40.758448
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100186",
+    "created_date": "2025-02-07T17:54:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.843872,
+     40.718542
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100245",
+    "created_date": "2025-02-07T02:48:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.820136,
+     40.703549
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100011",
+    "created_date": "2025-02-05T21:37:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.89211,
+     40.618062
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100009",
+    "created_date": "2025-02-04T23:36:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.033208,
+     40.618496
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100016",
+    "created_date": "2025-02-04T03:28:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.010739,
+     40.841182
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100227",
+    "created_date": "2025-02-03T20:02:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.06049,
+     40.50369
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100323",
+    "created_date": "2025-02-02T20:59:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.125658,
+     40.509037
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100083",
+    "created_date": "2025-02-02T18:44:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.016267,
+     40.75445
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100127",
+    "created_date": "2025-02-02T07:47:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.94551,
+     40.729446
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100104",
+    "created_date": "2025-02-01T05:42:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.86641,
+     40.719804
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100203",
+    "created_date": "2025-01-29T08:32:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.860757,
+     40.890678
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100216",
+    "created_date": "2025-01-28T17:54:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929176,
+     40.806003
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100010",
+    "created_date": "2025-01-23T18:02:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.924034,
+     40.705307
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100248",
+    "created_date": "2025-01-23T09:39:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9102,
+     40.719255
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100078",
+    "created_date": "2025-01-22T01:35:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.192122,
+     40.597433
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100093",
+    "created_date": "2025-01-20T09:48:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "STATEN ISLAND",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.937503,
+     40.836107
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100146",
+    "created_date": "2025-01-19T00:00:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919768,
+     40.648338
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100273",
+    "created_date": "2025-01-18T15:05:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.821507,
+     40.828357
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100325",
+    "created_date": "2025-01-18T05:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.928479,
+     40.7282
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100144",
+    "created_date": "2025-01-17T17:24:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.889987,
+     40.585735
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100173",
+    "created_date": "2025-01-17T02:36:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.983179,
+     40.792164
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100169",
+    "created_date": "2025-01-15T20:06:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.896478,
+     40.690249
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100004",
+    "created_date": "2025-01-14T23:50:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.930992,
+     40.719052
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100379",
+    "created_date": "2025-01-10T14:43:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.872865,
+     40.645983
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100385",
+    "created_date": "2025-01-08T06:56:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.878095,
+     40.656766
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100094",
+    "created_date": "2025-01-07T02:12:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.010981,
+     40.852297
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100235",
+    "created_date": "2025-01-06T03:06:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.028611,
+     40.570748
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100202",
+    "created_date": "2025-01-04T18:34:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.915731,
+     40.867531
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100087",
+    "created_date": "2025-01-04T13:14:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942421,
+     40.841585
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100377",
+    "created_date": "2025-01-02T07:07:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.925087,
+     40.82536
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100090",
+    "created_date": "2025-01-01T23:36:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0078,
+     40.795152
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100282",
+    "created_date": "2025-01-01T21:30:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.848869,
+     40.551181
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100001",
+    "created_date": "2024-12-31T10:59:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.009813,
+     40.570429
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100210",
+    "created_date": "2024-12-29T06:41:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.207099,
+     40.592903
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100091",
+    "created_date": "2024-12-28T11:48:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "STATEN ISLAND",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.878209,
+     40.614448
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100148",
+    "created_date": "2024-12-24T01:21:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.015847,
+     40.681088
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100231",
+    "created_date": "2024-12-21T17:58:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.915826,
+     40.786975
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100179",
+    "created_date": "2024-12-20T19:06:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.930746,
+     40.591968
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100238",
+    "created_date": "2024-12-19T02:06:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929358,
+     40.57799
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100326",
+    "created_date": "2024-12-17T15:50:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.915983,
+     40.642435
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100055",
+    "created_date": "2024-12-17T13:57:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919977,
+     40.73396
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100327",
+    "created_date": "2024-12-16T01:18:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.944944,
+     40.748259
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100108",
+    "created_date": "2024-12-16T00:51:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.883999,
+     40.578566
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100331",
+    "created_date": "2024-12-14T15:43:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.847817,
+     40.82331
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100130",
+    "created_date": "2024-12-14T03:07:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.959625,
+     40.601106
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100369",
+    "created_date": "2024-12-13T10:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.866158,
+     40.728909
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100139",
+    "created_date": "2024-12-12T05:35:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.979995,
+     40.710801
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100257",
+    "created_date": "2024-12-12T02:10:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.962358,
+     40.718371
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100330",
+    "created_date": "2024-12-07T14:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.850723,
+     40.843444
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100230",
+    "created_date": "2024-12-06T08:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.806374,
+     40.82783
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100037",
+    "created_date": "2024-12-05T20:11:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.966037,
+     40.722003
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100222",
+    "created_date": "2024-12-03T14:37:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.891953,
+     40.620991
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100118",
+    "created_date": "2024-11-30T14:50:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.757052,
+     40.735239
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100381",
+    "created_date": "2024-11-29T21:07:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.97107,
+     40.837448
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100378",
+    "created_date": "2024-11-28T10:53:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935848,
+     40.838504
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100365",
+    "created_date": "2024-11-24T10:43:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.966883,
+     40.58483
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100171",
+    "created_date": "2024-11-23T19:58:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.708383,
+     40.554809
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100200",
+    "created_date": "2024-11-22T03:14:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.057841,
+     40.500825
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100307",
+    "created_date": "2024-11-21T04:24:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.969729,
+     40.661521
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100253",
+    "created_date": "2024-11-20T01:02:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.980087,
+     40.677622
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100176",
+    "created_date": "2024-11-19T15:43:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.938331,
+     40.595869
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100354",
+    "created_date": "2024-11-19T12:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.955477,
+     40.743894
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100265",
+    "created_date": "2024-11-19T08:15:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.943238,
+     40.765745
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100112",
+    "created_date": "2024-11-17T20:54:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95888,
+     40.599538
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100077",
+    "created_date": "2024-11-17T05:27:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.892832,
+     40.899216
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100012",
+    "created_date": "2024-11-15T22:43:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.976482,
+     40.811576
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100177",
+    "created_date": "2024-11-15T02:07:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.215058,
+     40.536307
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100268",
+    "created_date": "2024-11-14T07:00:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945289,
+     40.656202
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100218",
+    "created_date": "2024-11-13T10:49:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.875838,
+     40.66879
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100319",
+    "created_date": "2024-11-13T00:02:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.910016,
+     40.695691
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100390",
+    "created_date": "2024-11-11T03:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.979876,
+     40.781953
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100205",
+    "created_date": "2024-11-06T21:38:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.992935,
+     40.712669
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100278",
+    "created_date": "2024-11-06T15:00:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.807108,
+     40.863107
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100047",
+    "created_date": "2024-11-04T21:24:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.057481,
+     40.524391
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100371",
+    "created_date": "2024-11-04T19:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.93796,
+     40.594359
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100110",
+    "created_date": "2024-11-03T14:04:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.913196,
+     40.813206
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100360",
+    "created_date": "2024-11-03T08:36:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.037856,
+     40.576913
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100124",
+    "created_date": "2024-11-02T01:50:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.931918,
+     40.784128
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100044",
+    "created_date": "2024-10-31T11:19:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.914088,
+     40.907094
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100033",
+    "created_date": "2024-10-31T10:06:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.977225,
+     40.866959
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100042",
+    "created_date": "2024-10-30T01:04:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.972911,
+     40.587874
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100239",
+    "created_date": "2024-10-29T22:51:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.760983,
+     40.640198
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100220",
+    "created_date": "2024-10-29T12:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.948209,
+     40.745105
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100182",
+    "created_date": "2024-10-28T23:32:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.847648,
+     40.81832
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100224",
+    "created_date": "2024-10-28T13:48:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929385,
+     40.680641
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100300",
+    "created_date": "2024-10-28T13:23:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.73569,
+     40.782897
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100240",
+    "created_date": "2024-10-25T05:36:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.98102,
+     40.716061
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100351",
+    "created_date": "2024-10-24T22:53:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.996402,
+     40.82914
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100252",
+    "created_date": "2024-10-24T05:48:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.939503,
+     40.718644
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100063",
+    "created_date": "2024-10-23T11:26:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.918182,
+     40.761318
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100370",
+    "created_date": "2024-10-22T18:40:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.799906,
+     40.554261
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100062",
+    "created_date": "2024-10-22T07:40:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.741778,
+     40.689316
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100068",
+    "created_date": "2024-10-21T17:01:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.860994,
+     40.706549
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100045",
+    "created_date": "2024-10-21T12:29:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.955518,
+     40.705518
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100324",
+    "created_date": "2024-10-20T03:19:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.167752,
+     40.580903
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100096",
+    "created_date": "2024-10-18T08:15:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "STATEN ISLAND",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.88154,
+     40.723337
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100384",
+    "created_date": "2024-10-16T23:33:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.925448,
+     40.850356
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100180",
+    "created_date": "2024-10-16T08:28:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.911781,
+     40.614226
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100398",
+    "created_date": "2024-10-16T06:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.941449,
+     40.824746
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100057",
+    "created_date": "2024-10-15T10:58:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.841293,
+     40.808252
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100318",
+    "created_date": "2024-10-13T15:10:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.803124,
+     40.868717
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100259",
+    "created_date": "2024-10-13T09:56:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.030024,
+     40.708177
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100073",
+    "created_date": "2024-10-12T07:51:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.963119,
+     40.86232
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100079",
+    "created_date": "2024-10-10T17:39:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.922803,
+     40.804516
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100243",
+    "created_date": "2024-10-10T14:42:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.877378,
+     40.728849
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100329",
+    "created_date": "2024-10-10T02:28:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.819123,
+     40.853059
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100349",
+    "created_date": "2024-10-09T19:23:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.963149,
+     40.796296
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100315",
+    "created_date": "2024-10-09T01:03:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.022523,
+     40.607571
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100256",
+    "created_date": "2024-10-07T09:22:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.011534,
+     40.750613
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100107",
+    "created_date": "2024-10-07T08:38:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.18978,
+     40.633469
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100021",
+    "created_date": "2024-10-05T09:39:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.934767,
+     40.815995
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100304",
+    "created_date": "2024-10-03T21:26:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.724731,
+     40.67226
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100041",
+    "created_date": "2024-10-03T19:19:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.882609,
+     40.671046
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100049",
+    "created_date": "2024-10-02T14:32:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95632,
+     40.602661
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100160",
+    "created_date": "2024-10-01T13:33:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.890683,
+     40.680262
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100056",
+    "created_date": "2024-10-01T03:11:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945125,
+     40.771432
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100366",
+    "created_date": "2024-09-30T21:11:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.022204,
+     40.696148
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100364",
+    "created_date": "2024-09-29T22:31:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.959815,
+     40.605039
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100269",
+    "created_date": "2024-09-29T07:32:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.792888,
+     40.844365
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100167",
+    "created_date": "2024-09-27T10:13:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.965688,
+     40.63651
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100022",
+    "created_date": "2024-09-26T20:41:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.766986,
+     40.838085
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100100",
+    "created_date": "2024-09-26T04:57:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.074612,
+     40.55332
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100294",
+    "created_date": "2024-09-26T04:45:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.034622,
+     40.622867
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100066",
+    "created_date": "2024-09-25T18:50:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.941914,
+     40.610795
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100328",
+    "created_date": "2024-09-24T04:19:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.99841,
+     40.577058
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100143",
+    "created_date": "2024-09-23T21:34:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.987873,
+     40.765133
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100399",
+    "created_date": "2024-09-14T10:15:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.958506,
+     40.603326
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100312",
+    "created_date": "2024-09-12T19:55:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.88014,
+     40.89964
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100348",
+    "created_date": "2024-09-12T13:26:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.156049,
+     40.524664
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100164",
+    "created_date": "2024-09-11T11:03:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.03769,
+     40.664615
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100155",
+    "created_date": "2024-09-11T07:56:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.810167,
+     40.611172
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100060",
+    "created_date": "2024-09-10T07:11:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.927291,
+     40.808202
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100289",
+    "created_date": "2024-09-10T00:09:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917565,
+     40.768764
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100106",
+    "created_date": "2024-09-09T22:26:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.979284,
+     40.873102
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100115",
+    "created_date": "2024-09-04T05:56:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.018197,
+     40.597677
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100302",
+    "created_date": "2024-09-01T06:22:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.118715,
+     40.529524
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100007",
+    "created_date": "2024-08-30T20:39:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.924379,
+     40.770244
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100293",
+    "created_date": "2024-08-25T05:28:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.918065,
+     40.710415
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100261",
+    "created_date": "2024-08-24T15:50:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.738147,
+     40.741957
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100085",
+    "created_date": "2024-08-24T08:15:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.939182,
+     40.594096
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100132",
+    "created_date": "2024-08-24T02:14:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.981092,
+     40.580547
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100191",
+    "created_date": "2024-08-23T15:19:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.920235,
+     40.617989
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100086",
+    "created_date": "2024-08-20T00:17:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.700184,
+     40.629152
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100190",
+    "created_date": "2024-08-19T13:17:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.93854,
+     40.792554
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100036",
+    "created_date": "2024-08-17T10:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.990287,
+     40.667889
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100260",
+    "created_date": "2024-08-17T07:05:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.910559,
+     40.837044
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100244",
+    "created_date": "2024-08-16T15:06:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95528,
+     40.774795
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100342",
+    "created_date": "2024-08-16T14:04:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.993815,
+     40.648229
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100059",
+    "created_date": "2024-08-16T06:48:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.021575,
+     40.607338
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100027",
+    "created_date": "2024-08-14T04:42:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.985916,
+     40.859921
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100071",
+    "created_date": "2024-08-13T18:40:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921008,
+     40.856148
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100284",
+    "created_date": "2024-08-13T15:40:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.026869,
+     40.611149
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100000",
+    "created_date": "2024-08-11T15:56:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.996763,
+     40.858948
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100067",
+    "created_date": "2024-08-09T16:13:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929968,
+     40.891941
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100276",
+    "created_date": "2024-08-09T04:08:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.867334,
+     40.591596
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100332",
+    "created_date": "2024-08-05T21:32:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.001565,
+     40.595011
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100271",
+    "created_date": "2024-08-05T05:47:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.914865,
+     40.844743
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100372",
+    "created_date": "2024-08-04T05:49:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.933457,
+     40.577346
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100212",
+    "created_date": "2024-07-29T06:22:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.804366,
+     40.793086
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100151",
+    "created_date": "2024-07-26T18:16:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.937092,
+     40.725983
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100357",
+    "created_date": "2024-07-25T21:38:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.98332,
+     40.722993
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100084",
+    "created_date": "2024-07-24T07:24:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.028055,
+     40.674671
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100018",
+    "created_date": "2024-07-22T03:58:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.938249,
+     40.719074
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100229",
+    "created_date": "2024-07-21T16:08:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.954203,
+     40.586816
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100199",
+    "created_date": "2024-07-20T02:18:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.946267,
+     40.549631
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100197",
+    "created_date": "2024-07-19T05:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.005369,
+     40.706731
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100081",
+    "created_date": "2024-07-16T22:45:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.938814,
+     40.779056
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100099",
+    "created_date": "2024-07-16T02:27:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.987979,
+     40.754949
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100337",
+    "created_date": "2024-07-15T14:47:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.873523,
+     40.684932
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100287",
+    "created_date": "2024-07-15T10:55:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.911072,
+     40.852947
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100387",
+    "created_date": "2024-07-14T19:15:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.705722,
+     40.599227
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100003",
+    "created_date": "2024-07-09T09:28:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.906264,
+     40.729809
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100279",
+    "created_date": "2024-07-06T10:42:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.955608,
+     40.65126
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100395",
+    "created_date": "2024-07-06T09:58:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.878956,
+     40.575448
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100054",
+    "created_date": "2024-07-06T08:29:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921759,
+     40.667041
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100393",
+    "created_date": "2024-07-05T05:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.89573,
+     40.864386
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100097",
+    "created_date": "2024-07-04T09:59:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.006151,
+     40.71399
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100201",
+    "created_date": "2024-07-02T01:19:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92247,
+     40.851519
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100165",
+    "created_date": "2024-06-30T22:40:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.965987,
+     40.848882
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100333",
+    "created_date": "2024-06-30T14:38:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.938733,
+     40.830303
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100082",
+    "created_date": "2024-06-30T14:04:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.88332,
+     40.786413
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100102",
+    "created_date": "2024-06-30T00:45:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.896529,
+     40.616084
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100024",
+    "created_date": "2024-06-29T22:50:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.984452,
+     40.582438
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100223",
+    "created_date": "2024-06-29T07:09:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.997233,
+     40.58904
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100277",
+    "created_date": "2024-06-28T23:14:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.961401,
+     40.7282
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100034",
+    "created_date": "2024-06-28T10:48:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.926345,
+     40.69086
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100221",
+    "created_date": "2024-06-28T08:34:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942678,
+     40.724837
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100392",
+    "created_date": "2024-06-24T19:44:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.951419,
+     40.811617
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100053",
+    "created_date": "2024-06-22T01:05:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.885206,
+     40.618817
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100219",
+    "created_date": "2024-06-21T06:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.864145,
+     40.645151
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100149",
+    "created_date": "2024-06-20T03:38:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.963354,
+     40.701529
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100350",
+    "created_date": "2024-06-19T01:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.99164,
+     40.716441
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100306",
+    "created_date": "2024-06-17T18:16:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.037989,
+     40.725907
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100023",
+    "created_date": "2024-06-16T20:51:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.868768,
+     40.586072
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100334",
+    "created_date": "2024-06-15T20:09:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.949586,
+     40.756022
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100356",
+    "created_date": "2024-06-12T12:51:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.976455,
+     40.844537
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100250",
+    "created_date": "2024-06-12T11:54:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.903269,
+     40.68578
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100208",
+    "created_date": "2024-06-11T14:27:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.865614,
+     40.729198
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100098",
+    "created_date": "2024-06-11T03:32:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.770744,
+     40.909764
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100343",
+    "created_date": "2024-06-10T06:51:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.911187,
+     40.633181
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100040",
+    "created_date": "2024-06-09T18:57:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.90453,
+     40.606413
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100389",
+    "created_date": "2024-05-31T11:16:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.978314,
+     40.841198
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100137",
+    "created_date": "2024-05-30T16:00:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.892758,
+     40.648284
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100363",
+    "created_date": "2024-05-30T03:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.871443,
+     40.630749
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100376",
+    "created_date": "2024-05-30T03:31:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.932912,
+     40.783547
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100320",
+    "created_date": "2024-05-28T07:57:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.954742,
+     40.72417
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100196",
+    "created_date": "2024-05-28T07:18:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.723579,
+     40.640302
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100335",
+    "created_date": "2024-05-26T20:07:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.997094,
+     40.844328
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100105",
+    "created_date": "2024-05-25T12:49:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.910808,
+     40.858986
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100296",
+    "created_date": "2024-05-24T02:07:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.903574,
+     40.62377
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100313",
+    "created_date": "2024-05-23T07:21:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.875915,
+     40.717661
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100209",
+    "created_date": "2024-05-22T14:43:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.84254,
+     40.854889
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100368",
+    "created_date": "2024-05-22T05:40:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.984208,
+     40.796384
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100193",
+    "created_date": "2024-05-21T02:36:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.785262,
+     40.565991
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100141",
+    "created_date": "2024-05-20T11:14:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.809448,
+     40.804342
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100232",
+    "created_date": "2024-05-20T06:37:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.944844,
+     40.793341
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100147",
+    "created_date": "2024-05-18T17:37:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.989489,
+     40.612493
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100051",
+    "created_date": "2024-05-18T10:24:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.969635,
+     40.761322
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100388",
+    "created_date": "2024-05-18T07:21:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.869509,
+     40.553615
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100275",
+    "created_date": "2024-05-17T17:22:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.727694,
+     40.769812
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100207",
+    "created_date": "2024-05-16T09:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.951084,
+     40.601462
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100114",
+    "created_date": "2024-05-12T12:03:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.151882,
+     40.596828
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100362",
+    "created_date": "2024-05-12T06:00:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.237073,
+     40.616994
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100226",
+    "created_date": "2024-05-12T04:49:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.82677,
+     40.836219
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100163",
+    "created_date": "2024-05-10T22:12:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.911542,
+     40.867025
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100125",
+    "created_date": "2024-05-10T01:38:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.115926,
+     40.601697
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100298",
+    "created_date": "2024-05-07T10:17:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "STATEN ISLAND",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.712624,
+     40.571074
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100285",
+    "created_date": "2024-05-05T18:43:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.15631,
+     40.638987
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100076",
+    "created_date": "2024-04-30T15:08:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "STATEN ISLAND",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.879681,
+     40.664604
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100101",
+    "created_date": "2024-04-29T11:39:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921591,
+     40.664139
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100397",
+    "created_date": "2024-04-29T00:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.942916,
+     40.62005
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100175",
+    "created_date": "2024-04-28T06:15:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.926457,
+     40.852917
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100126",
+    "created_date": "2024-04-27T23:16:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.929281,
+     40.702323
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100338",
+    "created_date": "2024-04-27T21:44:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.975454,
+     40.746681
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100314",
+    "created_date": "2024-04-27T21:39:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.748998,
+     40.672022
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100031",
+    "created_date": "2024-04-27T10:36:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.965543,
+     40.808133
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100321",
+    "created_date": "2024-04-27T08:58:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.799949,
+     40.812725
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100039",
+    "created_date": "2024-04-27T01:17:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.84891,
+     40.735237
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100255",
+    "created_date": "2024-04-24T10:29:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.987996,
+     40.825175
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100119",
+    "created_date": "2024-04-23T23:19:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.147851,
+     40.505826
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100367",
+    "created_date": "2024-04-23T05:01:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.938841,
+     40.736192
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100382",
+    "created_date": "2024-04-22T00:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.874239,
+     40.621435
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100128",
+    "created_date": "2024-04-21T11:30:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.747504,
+     40.750195
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100013",
+    "created_date": "2024-04-19T11:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.939071,
+     40.86542
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100299",
+    "created_date": "2024-04-19T11:35:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.933295,
+     40.689672
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100005",
+    "created_date": "2024-04-18T04:50:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.127643,
+     40.539578
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100183",
+    "created_date": "2024-04-17T15:12:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.916673,
+     40.795984
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100383",
+    "created_date": "2024-04-16T06:43:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.887712,
+     40.58497
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100225",
+    "created_date": "2024-04-11T21:47:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.972436,
+     40.787643
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100046",
+    "created_date": "2024-04-10T08:27:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.992508,
+     40.707072
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100241",
+    "created_date": "2024-04-09T19:05:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.931199,
+     40.768624
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100185",
+    "created_date": "2024-04-09T15:03:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.010716,
+     40.847664
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100161",
+    "created_date": "2024-04-08T22:13:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.015547,
+     40.805285
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100386",
+    "created_date": "2024-04-08T18:57:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.898014,
+     40.601975
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100172",
+    "created_date": "2024-04-08T12:48:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.000694,
+     40.635708
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100355",
+    "created_date": "2024-04-08T05:00:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.953101,
+     40.712417
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100310",
+    "created_date": "2024-04-08T00:12:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.936639,
+     40.775087
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100150",
+    "created_date": "2024-04-04T15:56:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.997927,
+     40.763207
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100152",
+    "created_date": "2024-04-04T00:27:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.892891,
+     40.679783
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100308",
+    "created_date": "2024-03-30T15:09:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.883137,
+     40.726271
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100138",
+    "created_date": "2024-03-27T06:41:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.970822,
+     40.870864
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100145",
+    "created_date": "2024-03-26T22:22:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.07608,
+     40.580936
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100375",
+    "created_date": "2024-03-23T08:33:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "STATEN ISLAND",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.254528,
+     40.523906
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100316",
+    "created_date": "2024-03-22T16:48:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.957101,
+     40.636555
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100189",
+    "created_date": "2024-03-20T07:30:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.193393,
+     40.604734
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100214",
+    "created_date": "2024-03-19T13:45:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "STATEN ISLAND",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.023461,
+     40.717435
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100133",
+    "created_date": "2024-03-19T04:25:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95906,
+     40.61834
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100178",
+    "created_date": "2024-03-15T19:06:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.89142,
+     40.626293
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100267",
+    "created_date": "2024-03-15T18:40:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.825269,
+     40.589277
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100065",
+    "created_date": "2024-03-15T14:04:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.884227,
+     40.618328
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100217",
+    "created_date": "2024-03-14T04:11:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921461,
+     40.781248
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100301",
+    "created_date": "2024-03-06T16:51:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.937489,
+     40.775853
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100029",
+    "created_date": "2024-03-06T08:16:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.896343,
+     40.69987
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100195",
+    "created_date": "2024-03-05T20:04:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.978941,
+     40.774382
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100340",
+    "created_date": "2024-03-05T15:31:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.934411,
+     40.636848
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100188",
+    "created_date": "2024-03-05T05:33:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.772617,
+     40.626358
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100131",
+    "created_date": "2024-03-04T16:49:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.992815,
+     40.695004
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100228",
+    "created_date": "2024-03-03T14:05:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.776696,
+     40.722278
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100297",
+    "created_date": "2024-03-02T17:35:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.814098,
+     40.560261
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100280",
+    "created_date": "2024-03-02T05:41:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.893241,
+     40.658142
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100136",
+    "created_date": "2024-03-01T11:24:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.975412,
+     40.841479
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100061",
+    "created_date": "2024-02-27T13:09:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.787018,
+     40.803022
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100234",
+    "created_date": "2024-02-26T10:20:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.913313,
+     40.816065
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100111",
+    "created_date": "2024-02-25T12:37:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.908604,
+     40.578476
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100025",
+    "created_date": "2024-02-25T01:49:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.917036,
+     40.615438
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100192",
+    "created_date": "2024-02-24T07:01:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.717331,
+     40.787002
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100305",
+    "created_date": "2024-02-23T10:01:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7613,
+     40.724535
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100246",
+    "created_date": "2024-02-22T15:15:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.795981,
+     40.814959
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100215",
+    "created_date": "2024-02-22T06:10:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.911277,
+     40.803756
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100170",
+    "created_date": "2024-02-21T23:08:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.954415,
+     40.731625
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100121",
+    "created_date": "2024-02-21T20:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.95126,
+     40.707924
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100204",
+    "created_date": "2024-02-20T08:19:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.945332,
+     40.742365
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100262",
+    "created_date": "2024-02-17T10:04:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.881651,
+     40.604691
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100274",
+    "created_date": "2024-02-16T08:52:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.035741,
+     40.651066
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100353",
+    "created_date": "2024-02-14T22:47:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.935418,
+     40.727864
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100157",
+    "created_date": "2024-02-14T03:21:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.859321,
+     40.907222
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100113",
+    "created_date": "2024-02-13T11:19:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.81637,
+     40.860309
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100058",
+    "created_date": "2024-02-13T11:18:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.118627,
+     40.556254
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100380",
+    "created_date": "2024-02-09T22:19:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "STATEN ISLAND",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.918519,
+     40.85663
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100174",
+    "created_date": "2024-02-08T20:15:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.001806,
+     40.787739
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100080",
+    "created_date": "2024-02-08T08:14:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.986738,
+     40.788724
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100373",
+    "created_date": "2024-02-05T16:23:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.908028,
+     40.787792
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100344",
+    "created_date": "2024-02-05T11:36:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.922789,
+     40.809316
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100283",
+    "created_date": "2024-02-05T08:43:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BRONX",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.990615,
+     40.672272
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100237",
+    "created_date": "2024-02-02T11:01:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.927372,
+     40.833476
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100153",
+    "created_date": "2024-02-01T23:21:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.776374,
+     40.604962
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100272",
+    "created_date": "2024-01-31T16:50:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.910116,
+     40.66295
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100064",
+    "created_date": "2024-01-31T09:59:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.72036,
+     40.584876
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100391",
+    "created_date": "2024-01-31T07:56:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.99963,
+     40.63493
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100281",
+    "created_date": "2024-01-29T19:36:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.912783,
+     40.750678
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100396",
+    "created_date": "2024-01-28T02:07:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.898042,
+     40.862312
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100015",
+    "created_date": "2024-01-22T23:03:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.928579,
+     40.672422
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100075",
+    "created_date": "2024-01-22T19:35:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.988104,
+     40.692585
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100122",
+    "created_date": "2024-01-22T10:48:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.894389,
+     40.656464
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100014",
+    "created_date": "2024-01-22T08:41:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.704508,
+     40.582062
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100352",
+    "created_date": "2024-01-20T05:10:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "QUEENS",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.996486,
+     40.844928
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100035",
+    "created_date": "2024-01-20T03:01:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.962332,
+     40.871287
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100050",
+    "created_date": "2024-01-18T17:29:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.760697,
+     40.616272
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100095",
+    "created_date": "2024-01-18T12:30:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.92397,
+     40.583436
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100162",
+    "created_date": "2024-01-18T08:46:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.992193,
+     40.773126
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100129",
+    "created_date": "2024-01-18T06:39:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.889685,
+     40.692979
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100264",
+    "created_date": "2024-01-17T09:33:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.983485,
+     40.820376
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100168",
+    "created_date": "2024-01-17T00:31:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921976,
+     40.677498
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100038",
+    "created_date": "2024-01-16T07:41:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.993985,
+     40.745379
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100181",
+    "created_date": "2024-01-15T15:48:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.988293,
+     40.707574
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100109",
+    "created_date": "2024-01-15T06:37:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Feces",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.919925,
+     40.806939
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100166",
+    "created_date": "2024-01-13T11:31:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.927584,
+     40.686878
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100006",
+    "created_date": "2024-01-12T06:05:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.829919,
+     40.906033
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100303",
+    "created_date": "2024-01-07T11:31:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BRONX",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.022042,
+     40.714966
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100154",
+    "created_date": "2024-01-07T08:56:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.921187,
+     40.835734
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100187",
+    "created_date": "2024-01-07T01:45:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.976465,
+     40.577306
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100026",
+    "created_date": "2024-01-06T03:02:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "BROOKLYN",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.748877,
+     40.704611
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100194",
+    "created_date": "2024-01-04T11:09:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "Closed"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.737868,
+     40.788048
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100092",
+    "created_date": "2024-01-02T02:33:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Pet Waste Not Removed",
+    "borough": "QUEENS",
+    "status": "In Progress"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.998587,
+     40.789628
+    ]
+   },
+   "properties": {
+    "unique_key": "SAMPLE-100184",
+    "created_date": "2024-01-01T06:10:00",
+    "complaint_type": "Unsanitary Animal Pvt Property",
+    "descriptor": "Dog Waste",
+    "borough": "MANHATTAN",
+    "status": "Closed"
+   }
+  }
+ ]
+}
