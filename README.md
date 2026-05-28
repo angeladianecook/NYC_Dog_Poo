@@ -1,9 +1,9 @@
 # 🐾 NYC Dog Waste Complaints
 
-**An interactive civic open-data map of where New Yorkers report dog waste to 311.**
+**An interactive civic open-data map of where New Yorkers report dog waste to 311**
 
-New York City runs on complaints. Every pothole, broken streetlight, and yes —
-every pile of unscooped dog waste — can be logged with the city's **311**
+New York City runs on complaints. Every pothole, broken streetlight, and yes,
+every pile of unscooped dog waste, can be logged with the city's **311**
 service, and every one of those reports becomes a public record. This project
 takes one small, very human slice of that record and puts it on a map: *where,
 and how often, do New Yorkers pick up the phone (or the app) to report dog
